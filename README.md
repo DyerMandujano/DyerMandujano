@@ -12,11 +12,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DyerMandujano&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DyerMandujano&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DyerMandujano&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DyerMandujano&icon=4&color=0)](https://visitcount.itsvg.in)

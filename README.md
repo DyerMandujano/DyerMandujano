@@ -14,8 +14,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DyerMandujano&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DyerMandujano&layout=compact)](https://github.com/DyerMandujano/github-readme-stats)
-
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

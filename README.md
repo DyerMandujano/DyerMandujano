@@ -11,7 +11,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DyerMandujano&theme=radical&hide_border=false)<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DyerMandujano=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DyerMandujano)](https://github.com/DyerMandujano/github-readme-stats)<br/>
 
 
 ### 🔝 Top Contributed Repo

@@ -11,6 +11,8 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DyerMandujano&theme=radical&hide_border=false)<br/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DyerMandujano=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)<br/>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DyerMandujano&limit=5&theme=algolia&combine_all_yearly_contributions=true)
